@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+## I was locked out of my old github. You can see what I have there here: https://github.com/wherrickjr
+## 🕺 I'm hoping to advance my skills at using data to come up with solutions for businesses and government agencies  
+😁 Pronouns: He/Him/His ⚡ Fun fact: I like to sing, dance, and play music
 <!--
 **wherrickjr1/wherrickjr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
