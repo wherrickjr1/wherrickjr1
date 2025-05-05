@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## I was locked out of my old github. You can see what I have there here: https://github.com/wherrickjr
-## 🕺 I'm hoping to advance my skills at using data to come up with solutions for businesses.
+## 🕺 I'm interested in using data for industries like finance, technology, and business. This account will be used to showcase some of my personal projects. I'm currently looking for opportunities in the data analytics/data science feild, but will be developing some software engineering skills as well. Please contact me via email wherrickjr@gmail.com if you are interested in making me part of your team.
 😁 Pronouns: He/Him/His ⚡ Fun fact: I like to sing, dance, and play music
 <!--
 **wherrickjr1/wherrickjr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
